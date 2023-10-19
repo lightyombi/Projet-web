@@ -1,0 +1,50 @@
+.etapes-title{
+    margin: 40px 0 80px 0;
+}
+
+.divider1, .divider2, .divider3{
+    padding-bottom: 15px;
+}
+.divider1 img{
+    width: 80px;
+
+}
+.divider2 img{
+    width: 100px;
+    height: 80px;
+}
+.divider3 img{
+    width: 90px;
+ 
+}
+h4{
+    padding-bottom: 15px;
+    color: blue;
+}
+#etapes .mega-etapes p{
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-size: 1.3em;
+    font-style: italic;
+}
+.dev, .conception, .ligne{
+    width: 280px;
+    text-align: center;
+}
+
+@media screen and (max-width:600px) {
+ 
+   .ligne{
+       padding-top: 20px;
+   }
+ 
+}
+
+@media screen and (max-width:980px) {
+
+    .etapes-title{
+        margin: 0 0 80px 0;
+    }
+    
+
+}

@@ -1,0 +1,43 @@
+.container-footer{
+    width: 100%;
+    background-color: blue;
+    height: 270px;
+    text-align: center;
+    color: white;
+}
+
+.footer-title{
+    padding-top: 20px;
+}
+.footer-title h1{
+    font-size: 3rem;
+    font-weight: normal;
+
+}
+span.point{
+    padding-left: 10px;
+    font-size: 2em;
+    color: red;
+}
+
+.menu-f{
+    padding-top: 60px;
+    width: 100%;
+}
+.table-footer{
+    display: table;
+    margin: 0 auto;
+
+}
+.menu-f ul li{
+    float: left;
+    padding-right: 5px;
+}
+.menu-f ul li a{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.copy{
+    padding-top: 15px;
+}
